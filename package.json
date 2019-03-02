@@ -1,0 +1,17 @@
+{
+  "name": "plasma-example",
+  "version": "1.0.0",
+  "scripts": {
+    "plasma-client": "plasma-client",
+    "plasma-chain": "plasma-chain",
+    "plasma-cli": "plasma-cli",
+    "wscat": "wscat"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "plasma-chain": "^0.0.18",
+    "plasma-client": "^0.0.4-beta.28",
+    "wscat": "^2.2.1"
+  }
+}

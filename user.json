@@ -1,0 +1,11 @@
+{
+  "ethPrivateKey": "0x73D62A140B944C87EAF86E605B5F44114B3959C04E3F1F98256F3C3E9B056926",
+  "dappchainPrivateKey": "iDAg84PiCWf4kAYzSnKtlu1rU///XpLqJUuimPEoV1Jp+GtLJa+yXdM/nZOZLcbm9CDAvnYMa/SKQeRNi/ciHA==",
+  "plasmaAddress": "0x7251b41638704bCaEf2885D1CadFC59Ff7eff959",
+  "startBlock": "3885481",
+  "ethUrl": "https://rinkeby.infura.io/v3/f40617f7daaf441bbd7bdd8428f0a404",
+  "ethEventsUrl": "wss://rinkeby.infura.io/ws",
+  "dappchainUrl": "http://test-z-asia1.dappchains.com",
+  "contractName": "plasmacash",
+  "dbPath": "/tmp/peach_db.json"
+}
